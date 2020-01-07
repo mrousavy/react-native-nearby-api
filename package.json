@@ -1,6 +1,6 @@
 {
   "name": "@adrianso/react-native-nearby-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native wrapper around Google's Nearby API SDK",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   "author": "Bad Features, Inc",
   "license": "ISC",
   "peerDependencies": {
-    "react": ">=15.4.0 || ^16.0.0-alpha",
-    "react-native": "^0.41.2"
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
   },
   "devDependencies": {
     "babel-plugin-module-resolver": "^3.0.0",
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/badfeatures/react-native-nearby-api.git"
+    "url": "git+https://github.com/adrianso/react-native-nearby-api.git"
   },
   "bugs": {
-    "url": "https://github.com/badfeatures/react-native-nearby-api/issues"
+    "url": "https://github.com/adrianso/react-native-nearby-api/issues"
   },
-  "homepage": "https://github.com/badfeatures/react-native-nearby-api#readme"
+  "homepage": "https://github.com/adrianso/react-native-nearby-api#readme"
 }
