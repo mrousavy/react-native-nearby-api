@@ -1,6 +1,6 @@
 {
   "name": "@adrianso/react-native-nearby-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native wrapper around Google's Nearby API SDK",
   "main": "index.js",
   "scripts": {

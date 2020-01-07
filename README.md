@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ yarn add react-native-nearby-api` or `$ npm install react-native-nearby-api --save`
+`$ yarn add @adrianso/react-native-nearby-api` or `$ npm install @adrianso/react-native-nearby-api --save`
 
 ### Installation
 
@@ -23,7 +23,7 @@ There are no additional steps required for Android
 ## Usage
 
 See the
-[example app](https://github.com/badfeatures/react-native-nearby-api/tree/master/example) for more detail and code examples.
+[example app](https://github.com/adrianso/react-native-nearby-api/tree/master/example) for more detail and code examples.
 
 - Retrieve your API Keys from the Google Console [iOS](https://developers.google.com/nearby/messages/ios/get-started) | [Android](https://developers.google.com/nearby/messages/android/get-started)
 - Add the correct permissions to the AndroidManifest.
@@ -132,7 +132,7 @@ nearbyAPI.unsubscribe();
 2. Create or select a project to register your application with.
 3. Click Continue to Enable the API.
 4. On the Credentials page, create a new API Key. (No key restrictions are needed for this example)
-5. Copy/Paste your key in [example/index.js](https://github.com/badfeatures/react-native-nearby-api/blob/develop/example/App.js#L26) and in the example [AndroidManifest.xml](https://github.com/badfeatures/react-native-nearby-api/blob/develop/example/android/app/src/main/AndroidManifest.xml#L31)
+5. Copy/Paste your key in [example/index.js](https://github.com/adrianso/react-native-nearby-api/blob/develop/example/App.js#L26) and in the example [AndroidManifest.xml](https://github.com/adrianso/react-native-nearby-api/blob/develop/example/android/app/src/main/AndroidManifest.xml#L31)
 
 #### Android
 
