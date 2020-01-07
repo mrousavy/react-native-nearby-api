@@ -1,4 +1,4 @@
-# react-native-nearby-api [![npm version](https://badge.fury.io/js/react-native-nearby-api.svg)](https://badge.fury.io/js/react-native-nearby-api)
+# react-native-nearby-api [![npm version](https://badge.fury.io/js/%40adrianso%2Freact-native-nearby-api.svg)](https://badge.fury.io/js/%40adrianso%2Freact-native-nearby-api)
 
 ## Getting started
 
