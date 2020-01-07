@@ -19,7 +19,7 @@ This new package support RN60 Autolinking. You do not need to link the library m
 
 ## 4. Update your Podfile
 
-Copy the following lines to the end of the ios/Podfile, after all the `target` sections, and just before the last `end` line.
+Copy the following lines to the end of the ios/Podfile, after all the `target` sections.
 
 ```ruby
 post_install do |installer|
