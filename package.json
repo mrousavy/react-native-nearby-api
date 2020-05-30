@@ -45,5 +45,11 @@
   "bugs": {
     "url": "https://github.com/adrianso/react-native-nearby-api/issues"
   },
-  "homepage": "https://github.com/adrianso/react-native-nearby-api#readme"
+  "homepage": "https://github.com/adrianso/react-native-nearby-api#readme",
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "RNNearbyApi.podspec"
+  ]
 }
