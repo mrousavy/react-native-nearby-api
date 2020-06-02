@@ -163,7 +163,6 @@ export class NearbyAPI {
   };
 
   _setHandler = (eventName: string, handler: EventHandler) => {
-    console.warn('adding handler for ', eventName);
     this._eventEmitter.removeAllListeners(eventName);
     this._handlers[eventName] = handler;
   };
