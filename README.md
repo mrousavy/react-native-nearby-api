@@ -49,6 +49,8 @@ See the
 - Add `NSBluetoothPeripheralUsageDescription` to the Info.plist
 - Add `NSMicrophoneUsageDescription` to the iOS project's Info.plist _if using audio_
 
+> Important: Ask for Bluetooth permissions first using react-native-permissions!
+
 ```javascript
 import NearbyApi from 'react-native-nearby-api';
 
