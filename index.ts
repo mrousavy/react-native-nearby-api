@@ -56,6 +56,7 @@ export class NearbyAPI {
         ? DeviceEventEmitter
         : new NativeEventEmitter(this._nearbyAPI);
     this._handlers = {};
+    this._eventEmitter.removeAllListeners('subscribe');
     this._deviceEventSubscription = this._eventEmitter.addListener(
       "subscribe",
       this._eventHandler.bind(this)
